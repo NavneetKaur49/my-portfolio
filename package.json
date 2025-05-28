@@ -1,7 +1,6 @@
 {
   "name": "my-portfolio",
   "version": "1.0.0",
-  "homepage": "https://navneetKaur49.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
